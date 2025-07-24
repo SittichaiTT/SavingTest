@@ -529,7 +529,7 @@ st.markdown(f"<h1 style='text-align:center;'>{t('📒 แอพบันทึ�
 
 # --- Emoji List for Selectbox ---
 EMOJI_OPTIONS = [
-    "💰", "🏠", "✈️", "🚗", "🎓", "💍", "👶", "🏥", "💻", "📱",
+    "💰", "🏠", "✈️", "🚗", "🎓", "💍", "👶", "🏥", "💻", "�",
     "📚", "🎁", "💖", "🍔", "☕", "🛒", "💡", "📈", "🏖️", "🎉"
 ]
 
@@ -1550,3 +1550,4 @@ else:
 
 st.markdown("<hr>", unsafe_allow_html=True)
 st.caption("💡 Powered by ChatGPT - Designed for real-life daily use")
+�
