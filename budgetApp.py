@@ -1550,4 +1550,3 @@ else:
 
 st.markdown("<hr>", unsafe_allow_html=True)
 st.caption("💡 Powered by ChatGPT - Designed for real-life daily use")
-�
